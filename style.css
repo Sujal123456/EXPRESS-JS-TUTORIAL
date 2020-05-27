@@ -1,0 +1,15 @@
+                    .menu li {
+                    list-style: none;
+                    width: 120 px;
+                    height: 50 px;
+                    background-color: darkcyan;
+                    margin: 5px;
+                    text-align: center;
+                    line-height: 50px;
+                    float: left;
+                }
+                
+                .menu li {
+                    color: white;
+                    display: block;
+                    text-decoration: none;
